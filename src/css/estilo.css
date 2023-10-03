@@ -73,13 +73,13 @@ main .personagem .imagem {
     width: 180px;
     justify-content: center;/*Alinhamento Vertical*/
     align-items: center;    /*Alinhamento Horizontal*/
-    gap: 10px;              /*Distancia entre os Icones*/
+    gap: 15px;              /*Distancia entre os Icones*/
     background-color: rgba(0, 0, 0, 0.3);
 }
 
 .botoes .botao {
     border: none;           /*Tira a borda branca*/
-    background: none;       /*Tira o fundo da Imaguem*/
+    background: #000000;       /*Tira o fundo da Imaguem*/
     cursor: pointer;        /*Muda o curso*/
     border-radius: 50%;     /*Deixa redondo*/
 }
